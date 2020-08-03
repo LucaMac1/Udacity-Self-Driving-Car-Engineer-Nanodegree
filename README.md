@@ -10,7 +10,7 @@
       - [CarND-03-Neural-Network-MiniFlow](https://github.com/ChenBohan/CarND-03-Neural-Network-MiniFlow)
       - [CarND-04-Deep-Learning-TensorFlow-Basic](https://github.com/ChenBohan/CarND-04-Deep-Learning-TensorFlow-Basic)
       - [CarND-05-Deep-Learning-Deep-Neural-Networks-Basic](https://github.com/ChenBohan/CarND-05-Deep-Learning-Deep-Neural-Networks-Basic)
-      - [CarND-06-Computer-Vision-CNN-Basic](https://github.com/ChenBohan/CarND-06-Computer-Vision-CNN-Basic)
+      - [CarND-06-Computer-Vision-CNN-Basic](https://github.com/LucaMac1/CarND-06-Computer-Vision-CNN-Basic.git)
       - [CarND-07-Deep-Learning-Keras-Basic](https://github.com/ChenBohan/CarND-07-Deep-Learning-Keras-Basic)
       - [CarND-08-Deep-Learning-Transfer-Learning](https://github.com/ChenBohan/CarND-08-Deep-Learning-Transfer-Learning)
     - Projects
