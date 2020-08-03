@@ -30,6 +30,3 @@
         - [CarND-Project-09-PID-Control](https://github.com/ChenBohan/CarND-Project-09-PID-Control)
         - [CarND-Project-10-MPC-Model-Predictive-Control](https://github.com/ChenBohan/CarND-Project-10-MPC-Model-Predictive-Control)
 
-## Certificate
-
-<img src="/certificate.png" width = "50%" height = "50%" div align=center />
