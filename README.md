@@ -5,7 +5,7 @@
 - Udacity - Self-Driving Car Nanodegree
   - Term 1 - Computer Vision and Deep Learning
     - Lessons
-      - [CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines](https://github.com/ChenBohan/AI-Computer-Vision-01-Canny-to-Detect-Lane-Lines)
+      - [CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines](https://github.com/LucaMac1/CarND-01-Computer-Vision-Canny-to-Detect-Lane-Lines.git)
       - [CarND-02-Neural-Network-Basic](https://github.com/ChenBohan/CarND-02-Neural-Network-Basic)
       - [CarND-03-Neural-Network-MiniFlow](https://github.com/ChenBohan/CarND-03-Neural-Network-MiniFlow)
       - [CarND-04-Deep-Learning-TensorFlow-Basic](https://github.com/ChenBohan/CarND-04-Deep-Learning-TensorFlow-Basic)
